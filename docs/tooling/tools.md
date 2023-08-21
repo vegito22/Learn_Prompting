@@ -77,6 +77,17 @@ Documentation can be found [here](https://www.promptflow.org/en/latest/index.htm
 
 > "ThoughtSource is a central, open resource and community centered on data and tools for chain-of-thought reasoning in large language models (Wei 2022). Our long-term goal is to enable trustworthy and robust reasoning in advanced AI systems for driving scientific research and medical practice."
 
+
+### [LLMStack](https://github.com/trypromptly/LLMStack)
+
+> LLMStack is a no-code platform for building generative AI applications, chatbots, agents and connecting them to your data and business processes.
+> Features:
+  - Chain multiple models
+  - Use generative AI on your Data
+  - No-code app builder interface
+  - Deploy to the cloud or on-premise
+  - API access
+
 ## Misc.
 
 ### [GPT Index](https://gpt-index.readthedocs.io/en/latest/)(@Liu_GPT_Index_2022)
